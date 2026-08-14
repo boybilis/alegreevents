@@ -113,6 +113,7 @@
 @media(max-width:800px){.nav{padding-left:24px;padding-right:24px}.upcoming{padding-top:115px}.upcoming-copy,.upcoming-poster{height:auto}}
 .upcoming-top{position:absolute;z-index:2;top:30px;left:max(32px,calc((100vw - 1240px)/2))}.upcoming-top .index{margin:0;color:#efd09a;font-size:11px}.upcoming-top h2{margin:7px 0 0;font-size:45px;line-height:.85;color:#fff}.upcoming-top h2 em{color:#efd09a}
 @media(max-width:800px){.upcoming-top{top:20px;left:18px}.upcoming-top .index{font-size:9px}.upcoming-top h2{font-size:35px}}
+.upcoming-invite{margin:0 0 15px;color:#efd09a;font-size:11px}
 .collectives{position:relative}.collectives:after{content:'';position:absolute;top:38px;right:0;width:170px;height:84px;background:url('public/alegre-logo-champagne.png') center/contain no-repeat}
 @media(max-width:800px){.collectives:after{top:22px;right:0;width:125px;height:62px}}
 .contact{position:relative;padding-top:105px}.contact:before{content:'';display:block;width:175px;height:88px;margin:0 auto 18px;background:url('public/alegre-logo-transparent.png') center/contain no-repeat}
