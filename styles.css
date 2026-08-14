@@ -111,6 +111,8 @@
 @media(max-width:800px){.upcoming{padding-top:95px}.upcoming:before{top:18px;right:18px;width:125px;height:62px}}
 .nav{width:100%;max-width:none;margin:0;padding-left:max(32px,calc((100vw - 1240px)/2));padding-right:max(32px,calc((100vw - 1240px)/2));background:#fff;clip-path:none;box-shadow:0 1px 0 rgba(59,40,31,.1)}.nav-dropdown>div{z-index:1200}.upcoming{padding-top:150px}.upcoming-copy,.upcoming-poster{height:720px}
 @media(max-width:800px){.nav{padding-left:24px;padding-right:24px}.upcoming{padding-top:115px}.upcoming-copy,.upcoming-poster{height:auto}}
+.upcoming-top{position:absolute;z-index:2;top:30px;left:max(32px,calc((100vw - 1240px)/2))}.upcoming-top .index{margin:0;color:#efd09a;font-size:11px}.upcoming-top h2{margin:7px 0 0;font-size:45px;line-height:.85;color:#fff}.upcoming-top h2 em{color:#efd09a}
+@media(max-width:800px){.upcoming-top{top:20px;left:18px}.upcoming-top .index{font-size:9px}.upcoming-top h2{font-size:35px}}
 .collectives{position:relative}.collectives:after{content:'';position:absolute;top:38px;right:0;width:170px;height:84px;background:url('public/alegre-logo-champagne.png') center/contain no-repeat}
 @media(max-width:800px){.collectives:after{top:22px;right:0;width:125px;height:62px}}
 .contact{position:relative;padding-top:105px}.contact:before{content:'';display:block;width:175px;height:88px;margin:0 auto 18px;background:url('public/alegre-logo-transparent.png') center/contain no-repeat}
