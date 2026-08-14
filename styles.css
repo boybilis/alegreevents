@@ -97,6 +97,7 @@
 .site-footer .footer-heritage{background:var(--red);color:#efd09a}
 @media(max-width:800px){.site-footer .footer-bottom a[href="#top"]{right:12px;bottom:58px}}
 @media(max-width:800px){.site-footer .footer-heritage{font-size:13px}}
+.nav .logo img,.expertise-logo,.footer-logo img{content:url('public/alegre-logo-champagne.png?v=8419c28')}.leadership:after,.leadership>div:before,.collectives:after{background-image:url('public/alegre-logo-champagne.png?v=8419c28')}
 .collectives{position:relative}.collectives:after{content:'';position:absolute;top:38px;right:0;width:170px;height:84px;background:url('public/alegre-logo-champagne.png') center/contain no-repeat}
 @media(max-width:800px){.collectives:after{top:22px;right:0;width:125px;height:62px}}
 .contact{position:relative;padding-top:105px}.contact:before{content:'';display:block;width:175px;height:88px;margin:0 auto 18px;background:url('public/alegre-logo-transparent.png') center/contain no-repeat}
